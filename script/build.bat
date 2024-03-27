@@ -1,0 +1,1 @@
+go build -o output/log-distill.exe .\src\
